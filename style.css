@@ -1,8 +1,45 @@
+::root {
+  font-family: monospace;
+  font: 16px;
+  box-sizing: border-box;
+}
+
 *,
 ::before,
 ::after {
-  font-family: monospace;
-  box-sizing: border-box;
+  box-sizing: inherit;
   margin: 0;
   padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+button {
+  font-family: inherit;
+  font-size: inherit;
+  width: 32px;
+  height: 32px;
+}
+
+.container {
+  width: calc(36px * 4 + 6px);
+}
+
+.display {
+  text-align: right;
+  border: 1px solid;
+  border-radius: 4px;
+  padding: 2px 4px;
+  margin-bottom: 2px;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;
 }
