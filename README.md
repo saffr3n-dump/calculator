@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is my solution for the [Project: Calculator](https://www.theodinproject.com/lessons/foundations-calculator) assignment in [The Odin Project](https://www.theodinproject.com) [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) curriculum.
+This is my solution for the [Project: Calculator](https://www.theodinproject.com/lessons/foundations-calculator) assignment in [The Odin Project](https://www.theodinproject.com) [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) course.
 
 ## Installation
 
